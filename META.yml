@@ -29,4 +29,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/Data-LUID/tree/master
-version: 0.012
+version: 0.013
