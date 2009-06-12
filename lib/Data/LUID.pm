@@ -9,11 +9,11 @@ Data::LUID - Generate guaranteed unique local identifiers
 
 =head1 VERSION
 
-Version 0.013
+Version 0.014
 
 =cut
 
-our $VERSION = '0.013';
+our $VERSION = '0.014';
 
 =head1 SYNOPSIS
 
@@ -55,7 +55,7 @@ The <path> argument (default: C<./luid>) is the location of the table on disk
 
 Generate the next luid in the sequence
 
-The current generator is using L<Data::TUID>, so there is no real "sequence" per se
+The current generator is L<Data::TUID>, so there is no real "sequence" per se
 
 =head1 SEE ALSO
 

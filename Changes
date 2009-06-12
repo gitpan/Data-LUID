@@ -1,3 +1,6 @@
+0.014 Friday June 12 14:11:00 PDT 2009:
+    - Added BerkeleyDB::Manager dependency
+
 0.013 Wednesday June 10 19:17:35 PDT 2009:
     - Oomph, fixed bad bug in collision detection
 
